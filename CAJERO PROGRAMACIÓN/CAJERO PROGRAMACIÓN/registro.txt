@@ -1,0 +1,6 @@
+ADMIN retiro: Q400
+JAM deposito: Q200
+HAY deposito: Q399
+HAY retiro: Q5
+HAY retiro: Q9
+UM deposito: Q477
